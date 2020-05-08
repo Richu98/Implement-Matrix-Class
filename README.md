@@ -6,7 +6,7 @@ This project focus on focus on two tools which are vital to self-driving car eng
           or
 - [Juypter Notebooks](https://jupyter.readthedocs.io/en/latest/install.html)
   
-  How to use [Jupyter Notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)?
+How to use [Jupyter Notebooks](https://www.codecademy.com/articles/how-to-use-jupyter-notebooks)?
 
 ## List of Files and what it does
 - **matrix.py** - This contains the beginnings of a Matrix classas well as some helper functions zeroes and identity.
